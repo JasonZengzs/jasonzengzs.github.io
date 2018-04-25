@@ -1,14 +1,14 @@
-permalink: /blog/:year/:month/:title.html 
+permalink: /blog/:year/:month/:title.html
 include: ['.htaccess']
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "CNAME", "Gemfile", "Gemfile.lock"]
 markdown: kramdown
 highlights: pygments
-url: 
+url:
 cdn_url: 7u2t01.com1.z0.glb.clouddn.com
 lsi: false
 safe: true
 timezone: Asia/Shanghai
-auto: false 
+auto: false
 
 paginate: 8
 paginate_path: "page:num"
@@ -25,11 +25,11 @@ JB :
 
 # presonal config
 domain: http://coolshell.info
-title: Lippi-浮生志
+title: JasonZengzs
 description: Draw my life with code
 author: Lippi.OuYang
 email: ouyanglip@gmail.com
-github: LippiOuYang
+github: JasonZengzs
 
 config:
   js_dir:
