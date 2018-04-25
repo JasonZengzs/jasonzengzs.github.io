@@ -24,11 +24,11 @@ JB :
   IMAGE_PATH : http://coolshell.info/images
 
 # presonal config
-domain: http://coolshell.info
+domain: 
 title: JasonZengzs
 description: Draw my life with code
 author: Lippi.OuYang
-email: ouyanglip@gmail.com
+email: jasonzengzs@163.com
 github: JasonZengzs
 
 config:
