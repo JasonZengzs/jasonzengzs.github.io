@@ -14,4 +14,4 @@
 * http://maoshu.cc
 * http://x-carto.com/
 * http://flypeom.site
-*http://EZLippi.github.io
+* http://EZLippi.github.io
