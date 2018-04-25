@@ -3,7 +3,7 @@ layout: default
 title: "问答：Faqs"
 ---
 
-#### 或作为url收藏记录
+#### url收藏记录
 
 1,Markdown语法：<http://wowubuntu.com/markdown/basic.html>  
 2,Oracle现在真是恶心，下载个Java SDK还非得让登陆不可。只好再找下载地址了:         <http://ghaffarian.net/downloads/>  
